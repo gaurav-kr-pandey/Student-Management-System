@@ -1,0 +1,6 @@
+package com.springboot.demo.controller;
+
+@RestController
+public class HelloWorldController {
+
+}
